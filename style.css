@@ -1,0 +1,17 @@
+
+        .box1 {
+            background-color: cadetblue;
+            width: 600px;
+            height: 400px;
+        }
+
+        .box2 {
+            background-color: rgb(49, 138, 108);
+            width: 400px;
+            height: 200px;
+        }
+
+        .highlight-text {
+            color: dimgray;
+            font-size: 25px;
+        }
